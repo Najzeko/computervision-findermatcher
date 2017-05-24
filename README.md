@@ -1,2 +1,2 @@
 # computervision-findermatcher
-Finder/pattern matcher using OpenCV
+Various 2D programs involving pattern finding and matching using OpenCV
